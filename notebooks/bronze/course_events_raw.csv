@@ -1,0 +1,501 @@
+event_id,student_id,event_date,course_category,completion_pct,time_spent_minutes,status
+EVT-26828,8679,2024-08-08,Security,15.71,257,completed
+EVT-18981,5982,03/07/2024,Engineering,20.56,410,completed
+EVT-79163,7594,September 29 2024,Engineering,69.72,49,completed
+EVT-96474,5460,April 27 2024,Security,73.0,194,completed
+EVT-97684,9199,October 13 2024,Business,28.15,138,completed
+EVT-76237,9847,2024-06-30,Business,4.96,136,completed
+EVT-76307,9090,July 22 2024,Security,83.99,379,completed
+EVT-65296,8172,01/22/2024,Design,36.08,330,in_progress
+EVT-24663,2317,01/10/2024,Data,29.45,263,completed
+EVT-46421,1653,02/09/2024,Business,60.02,314,completed
+EVT-99065,8078,10/21/2024,Data,2.57,325,completed
+EVT-83000,6280,10/20/2024,Engineering,29.18,110,completed
+EVT-87128,5102,December 29 2024,Engineering,84.38,244,completed
+EVT-42493,1423,08/01/2024,Business,39.75,64,completed
+EVT-38016,2496,02/28/2024,Design,66.1,79,completed
+EVT-65519,4750,01/11/2024,Engineering,54.41,165,completed
+EVT-89131,1339,March 28 2024,Data,88.55,13,in_progress
+EVT-56566,5415,August 23 2024,Design,44.58,212,completed
+EVT-91070,1659,2024-07-04,Business,46.51,180,completed
+EVT-11025,3870,2024-08-11,Engineering,26.86,440,in_progress
+EVT-46500,8708,05/04/2024,Business,75.22,327,completed
+EVT-63354,9502,10/28/2024,Design,8.57,204,completed
+EVT-63964,8245,2024-09-25,Design,54.14,421,dropped
+EVT-82845,5557,07/21/2024,Design,58.97,451,completed
+EVT-80468,3973,2024-06-22,Security,84.08,178,completed
+EVT-10074,8141,2024-06-19,Security,41.86,235,completed
+EVT-30257,9056,February 09 2024,Data,86.69,181,completed
+EVT-98259,2494,2024-11-20,Design,88.17,230,completed
+EVT-85674,8700,September 28 2024,Design,7.9,427,dropped
+EVT-80292,6700,04/09/2024,Engineering,71.43,431,completed
+EVT-17100,7690,June 28 2024,Data,90.05,450,completed
+EVT-19287,6460,2024-11-26,Data,67.75,343,completed
+EVT-97806,6260,2024-04-30,Business,12.03,314,completed
+EVT-62296,2713,03/15/2024,Design,17.29,79,dropped
+EVT-17665,3634,2024-04-11,Engineering,97.22,163,completed
+EVT-85525,6403,2024-11-04,Business,12.62,174,completed
+EVT-87397,7744,2024-12-01,Security,98.83,318,completed
+EVT-16658,9117,March 31 2024,Design,99.73,365,completed
+EVT-82063,5722,09/09/2024,Data,83.41,112,completed
+EVT-94012,7561,October 15 2024,Design,91.08,255,completed
+EVT-22097,1601,August 17 2024,Design,6.7,170,in_progress
+EVT-82692,8451,October 16 2024,Security,39.74,100,completed
+EVT-59797,2442,November 21 2024,Engineering,27.62,213,completed
+EVT-69177,6153,June 14 2024,Engineering,87.35,173,completed
+EVT-62565,5135,2024-06-10,Engineering,62.31,159,completed
+EVT-58393,6296,2024-08-13,Business,41.96,386,completed
+EVT-76244,2899,08/28/2024,Engineering,14.82,365,completed
+EVT-30033,7622,11/19/2024,Business,75.84,334,completed
+EVT-40007,9431,May 20 2024,Security,92.49,261,in_progress
+EVT-82357,1018,01/29/2024,Design,10.1,304,dropped
+EVT-18907,9889,2024-09-16,Business,53.56,410,completed
+EVT-44973,8569,06/07/2024,Security,41.09,134,completed
+EVT-39831,7770,2024-08-19,Business,48.56,176,completed
+EVT-36071,1888,01/30/2024,Security,3.75,202,completed
+EVT-87236,4073,2024-05-26,Engineering,14.39,153,in_progress
+EVT-15209,9494,2024-11-26,Engineering,69.37,428,completed
+EVT-54597,6927,November 10 2024,Security,,412,completed
+EVT-16175,9167,09/16/2024,Data,33.15,211,in_progress
+EVT-28301,8242,August 24 2024,Security,74.57,196,completed
+EVT-13248,1845,October 10 2024,Business,89.7,68,in_progress
+EVT-56025,4335,01/22/2024,Security,,298,in_progress
+EVT-31319,5375,October 19 2024,Design,30.31,112,completed
+EVT-19071,9998,04/06/2024,Data,49.16,313,dropped
+EVT-48427,3146,11/05/2024,Security,9.82,289,completed
+EVT-11934,5719,2024-09-13,Data,13.44,102,completed
+EVT-25713,8178,02/01/2024,Data,44.31,359,completed
+EVT-59672,8941,02/22/2024,Security,26.94,403,completed
+EVT-19862,2989,2024-12-31,Security,64.56,291,completed
+EVT-42527,1472,September 15 2024,Engineering,21.14,23,in_progress
+EVT-56438,4920,2024-03-29,Security,74.09,382,completed
+EVT-75612,3594,May 06 2024,Security,86.72,246,completed
+EVT-15075,6091,08/12/2024,Engineering,51.53,372,completed
+EVT-26483,1224,September 25 2024,Engineering,31.11,117,completed
+EVT-20328,7684,2024-11-08,Design,13.56,234,in_progress
+EVT-98696,2527,07/05/2024,Security,87.93,418,completed
+EVT-38534,4681,05/24/2024,Business,,159,completed
+EVT-84364,2858,07/28/2024,Data,83.29,435,in_progress
+EVT-20745,8560,December 13 2024,Engineering,24.95,364,completed
+EVT-80686,2924,January 27 2024,Security,91.8,45,completed
+EVT-44814,3522,11/27/2024,Business,27.4,429,dropped
+EVT-50404,9165,02/03/2024,Data,50.51,444,completed
+EVT-19602,5781,February 18 2024,Security,12.39,417,completed
+EVT-65333,9337,12/13/2024,Business,,417,completed
+EVT-16006,5479,05/25/2024,Data,59.4,219,completed
+EVT-54313,7807,December 02 2024,Business,87.05,354,completed
+EVT-58520,8905,03/17/2024,Engineering,34.98,265,completed
+EVT-25860,8736,February 11 2024,Security,89.45,81,completed
+EVT-61173,4993,2024-12-05,Business,68.89,334,in_progress
+EVT-82512,8483,06/28/2024,Business,38.66,165,completed
+EVT-37938,3369,December 01 2024,Security,57.23,133,in_progress
+EVT-31299,7284,12/05/2024,Data,85.71,139,completed
+EVT-71694,4122,March 07 2024,Security,67.77,347,completed
+EVT-62923,9327,2024-12-28,Business,40.95,88,completed
+EVT-38864,3236,June 07 2024,Design,,376,completed
+EVT-22363,2143,July 11 2024,Data,76.76,226,in_progress
+EVT-39256,5526,2024-06-17,Business,,414,completed
+EVT-69638,7798,December 09 2024,Design,64.74,203,completed
+EVT-38657,6568,December 16 2024,Data,0.85,47,in_progress
+EVT-86569,9318,February 17 2024,Engineering,80.51,239,dropped
+EVT-81066,5377,12/09/2024,Security,96.7,316,completed
+EVT-24592,1042,09/17/2024,Data,42.38,255,completed
+EVT-23396,5634,01/10/2024,Data,34.87,308,completed
+EVT-96752,5891,2024-06-07,Business,46.67,215,completed
+EVT-59009,9022,04/19/2024,Design,82.43,283,completed
+EVT-46463,3434,2024-09-05,Data,10.23,269,dropped
+EVT-80282,8316,2024-04-25,Security,66.24,455,dropped
+EVT-79822,9824,2024-03-20,Data,37.42,364,dropped
+EVT-95909,8935,2024-05-31,Data,60.91,224,completed
+EVT-83519,6654,September 16 2024,Business,10.81,288,in_progress
+EVT-38221,6446,2024-09-26,Data,98.84,28,completed
+EVT-97841,9903,12/04/2024,Design,86.15,414,completed
+EVT-59823,7180,2024-11-12,Business,71.11,194,completed
+EVT-42591,8460,11/01/2024,Engineering,29.88,369,in_progress
+EVT-61876,6272,2024-03-19,Engineering,76.55,468,dropped
+EVT-44600,4090,April 02 2024,Business,80.54,425,in_progress
+EVT-49651,4912,2024-11-15,Design,60.0,284,completed
+EVT-56357,7274,2024-08-12,Business,68.08,314,completed
+EVT-70068,4826,07/29/2024,Business,65.54,336,completed
+EVT-19305,7730,December 12 2024,Business,25.94,478,completed
+EVT-81426,1715,05/01/2024,Business,38.83,53,completed
+EVT-20500,6213,11/08/2024,Data,,65,in_progress
+EVT-60019,8749,2024-08-17,Security,57.2,403,completed
+EVT-47353,7246,2024-09-30,Engineering,72.65,137,completed
+EVT-37607,7325,06/07/2024,Design,53.46,346,completed
+EVT-88193,3492,04/09/2024,Data,90.65,350,completed
+EVT-17331,9115,December 13 2024,Engineering,50.73,191,in_progress
+EVT-28373,1606,08/13/2024,Security,84.06,95,completed
+EVT-19358,3068,05/24/2024,Business,18.11,341,completed
+EVT-26361,9229,September 14 2024,Security,12.79,323,completed
+EVT-58434,6439,2024-08-02,Engineering,80.83,32,completed
+EVT-19116,2644,April 12 2024,Engineering,18.31,298,completed
+EVT-26704,8213,03/11/2024,Data,33.56,340,completed
+EVT-11934,2633,January 27 2024,Data,35.53,356,completed
+EVT-80855,9617,09/03/2024,Design,30.71,341,in_progress
+EVT-80644,8486,2024-10-10,Business,33.13,214,completed
+EVT-13101,1251,December 30 2024,Security,29.41,395,completed
+EVT-73788,3361,03/04/2024,Business,47.05,179,completed
+EVT-49240,7717,2024-02-12,Security,58.36,417,in_progress
+EVT-55745,3529,05/19/2024,Business,7.12,230,completed
+EVT-88172,2225,2024-09-19,Engineering,50.05,64,completed
+EVT-95649,8692,2024-08-11,Engineering,38.17,15,completed
+EVT-75909,5342,04/23/2024,Business,5.41,60,in_progress
+EVT-46930,6546,2024-06-27,Design,13.74,142,in_progress
+EVT-25118,7512,2024-07-31,Engineering,40.92,123,completed
+EVT-84341,2315,July 21 2024,Design,90.66,271,completed
+EVT-57400,6383,2024-07-10,Engineering,31.64,392,completed
+EVT-36685,9742,2024-07-16,Data,77.89,275,completed
+EVT-31178,7226,2024-07-10,Data,63.1,295,completed
+EVT-42098,6188,01/15/2024,Business,63.45,307,completed
+EVT-46509,8994,February 20 2024,Security,,362,in_progress
+EVT-24168,9864,11/28/2024,Data,76.12,304,in_progress
+EVT-62350,1588,2024-03-15,Engineering,76.45,123,completed
+EVT-74042,2121,01/20/2024,Engineering,76.36,238,in_progress
+EVT-76542,4846,August 29 2024,Data,61.45,201,in_progress
+EVT-30289,5708,March 12 2024,Data,40.34,210,completed
+EVT-51245,4727,08/28/2024,Security,38.33,247,dropped
+EVT-96673,2480,2024-11-11,Data,,405,completed
+EVT-83563,8110,2024-02-10,Business,37.31,357,in_progress
+EVT-80284,2612,2024-05-11,Security,,311,in_progress
+EVT-23104,2646,March 17 2024,Data,83.32,363,completed
+EVT-89276,8269,November 07 2024,Engineering,67.67,266,completed
+EVT-27361,3725,2024-08-04,Data,24.88,87,in_progress
+EVT-51467,5906,2024-05-27,Business,34.43,186,completed
+EVT-30635,1474,2024-06-03,Business,38.36,22,in_progress
+EVT-41385,1753,2024-01-25,Engineering,16.7,257,in_progress
+EVT-77839,6314,August 02 2024,Security,29.82,63,completed
+EVT-23238,1919,11/14/2024,Engineering,72.78,161,in_progress
+EVT-25129,5806,2024-02-02,Data,33.78,222,completed
+EVT-45697,6873,September 12 2024,Engineering,99.55,53,completed
+EVT-93130,7141,2024-10-01,Security,90.14,69,in_progress
+EVT-15695,8056,November 19 2024,Design,18.84,435,completed
+EVT-32431,3385,2024-10-21,Engineering,91.82,383,completed
+EVT-68800,5000,03/14/2024,Security,22.84,82,completed
+EVT-23434,9702,2024-08-07,Design,13.12,188,completed
+EVT-15229,7751,11/10/2024,Security,58.97,169,completed
+EVT-14207,3950,May 03 2024,Security,36.66,185,completed
+EVT-76768,3785,2024-08-01,Design,3.74,243,completed
+EVT-69470,3868,December 06 2024,Engineering,25.58,411,completed
+EVT-15482,2293,February 13 2024,Design,4.86,115,completed
+EVT-55830,7267,2024-07-03,Engineering,66.2,276,completed
+EVT-41571,4945,September 26 2024,Security,1.97,257,in_progress
+EVT-11267,9153,September 16 2024,Engineering,41.68,188,completed
+EVT-57819,3344,2024-10-10,Business,54.73,253,completed
+EVT-36062,4804,07/18/2024,Design,15.31,59,completed
+EVT-54473,8555,January 23 2024,Design,63.03,234,in_progress
+EVT-93227,5161,07/17/2024,Data,66.17,379,completed
+EVT-48469,8529,May 09 2024,Security,27.0,366,completed
+EVT-60140,5183,01/09/2024,Security,13.72,241,completed
+EVT-14117,1153,02/04/2024,Engineering,10.49,173,completed
+EVT-71213,8622,May 03 2024,Business,11.77,44,dropped
+EVT-66155,5712,December 02 2024,Security,10.63,163,in_progress
+EVT-38746,9955,February 23 2024,Business,19.97,32,completed
+EVT-60432,3588,2024-06-19,Data,52.31,424,dropped
+EVT-10425,2210,01/23/2024,Design,70.34,373,in_progress
+EVT-31579,8237,10/06/2024,Business,3.94,68,completed
+EVT-76540,6661,2024-11-25,Security,20.77,21,completed
+EVT-33206,5901,12/16/2024,Design,33.06,444,completed
+EVT-21226,7951,12/22/2024,Business,,185,in_progress
+EVT-44671,5097,2024-11-19,Business,90.69,341,completed
+EVT-17944,8484,2024-03-10,Engineering,66.9,65,completed
+EVT-27154,5949,2024-08-22,Design,9.01,356,completed
+EVT-50306,4263,2024-05-30,Business,72.36,419,completed
+EVT-44438,7302,2024-01-23,Engineering,25.59,94,dropped
+EVT-30676,8916,01/22/2024,Security,98.87,389,completed
+EVT-38785,2747,June 07 2024,Business,46.43,134,in_progress
+EVT-70142,4886,July 22 2024,Engineering,17.47,274,dropped
+EVT-51104,7248,08/30/2024,Engineering,,99,dropped
+EVT-44335,6881,January 19 2024,Design,80.16,292,completed
+EVT-33509,5847,04/07/2024,Engineering,73.85,91,completed
+EVT-51441,5837,2024-07-01,Business,75.82,179,completed
+EVT-70589,1359,12/01/2024,Data,85.2,296,in_progress
+EVT-93748,7484,2024-05-19,Security,17.05,228,completed
+EVT-22833,5497,07/07/2024,Business,43.77,246,completed
+EVT-40495,1132,July 23 2024,Business,87.85,128,completed
+EVT-52504,1803,08/13/2024,Security,81.5,418,completed
+EVT-87924,9138,2024-06-22,Security,40.08,217,completed
+EVT-57795,5689,September 11 2024,Engineering,27.18,332,completed
+EVT-18326,4770,09/11/2024,Business,85.07,104,completed
+EVT-59735,6772,09/22/2024,Engineering,64.88,105,completed
+EVT-44664,4588,February 12 2024,Design,11.31,337,completed
+EVT-65461,4115,2024-08-05,Engineering,5.86,346,completed
+EVT-11504,5106,August 08 2024,Design,15.94,231,in_progress
+EVT-36365,3240,April 02 2024,Data,59.08,212,completed
+EVT-10851,2591,05/30/2024,Business,67.84,24,dropped
+EVT-62227,1645,2024-02-22,Design,37.98,387,in_progress
+EVT-94080,6061,June 16 2024,Data,2.88,324,completed
+EVT-88504,8222,05/31/2024,Security,83.85,462,completed
+EVT-30374,1546,August 16 2024,Engineering,13.07,111,completed
+EVT-90173,6977,2024-08-06,Data,11.29,240,completed
+EVT-44741,3153,12/19/2024,Design,4.6,313,completed
+EVT-12552,2476,06/28/2024,Business,31.42,229,in_progress
+EVT-42742,5835,January 22 2024,Security,67.79,209,in_progress
+EVT-69638,6352,June 29 2024,Security,57.66,12,dropped
+EVT-66498,7807,08/10/2024,Data,97.79,370,completed
+EVT-84668,3877,2024-11-23,Data,33.83,119,completed
+EVT-52487,4289,February 08 2024,Engineering,70.06,115,in_progress
+EVT-96511,3165,11/22/2024,Security,66.17,152,in_progress
+EVT-88907,9837,July 05 2024,Security,34.57,395,completed
+EVT-59615,6994,2024-12-13,Engineering,38.49,370,completed
+EVT-17592,9697,2024-01-16,Business,55.83,424,completed
+EVT-66057,9221,November 07 2024,Engineering,5.46,417,completed
+EVT-40021,5465,2024-08-12,Design,15.69,42,completed
+EVT-40982,3695,2024-03-05,Design,85.19,305,dropped
+EVT-79514,5210,April 30 2024,Data,7.49,62,in_progress
+EVT-99353,8894,07/06/2024,Engineering,24.09,419,completed
+EVT-66498,5835,July 15 2024,Engineering,5.04,456,dropped
+EVT-56898,6549,January 17 2024,Data,64.33,284,in_progress
+EVT-28289,2886,March 19 2024,Business,23.5,105,completed
+EVT-80381,8673,08/18/2024,Engineering,80.13,197,in_progress
+EVT-68878,2233,07/09/2024,Security,85.66,176,completed
+EVT-94939,3306,February 09 2024,Engineering,11.87,110,dropped
+EVT-34957,4696,March 11 2024,Business,65.34,244,completed
+EVT-85880,7511,07/06/2024,Engineering,41.23,68,completed
+EVT-33405,6992,June 09 2024,Security,0.02,144,completed
+EVT-48890,2479,2024-05-22,Design,60.42,353,in_progress
+EVT-97416,7464,2024-02-28,Design,30.46,451,completed
+EVT-42087,1228,04/05/2024,Business,20.69,260,completed
+EVT-73699,5332,09/22/2024,Business,95.04,280,completed
+EVT-92240,9791,2024-10-14,Security,5.43,337,dropped
+EVT-42271,3024,05/14/2024,Design,45.45,170,completed
+EVT-28726,8451,12/26/2024,Design,61.98,315,completed
+EVT-35203,7038,April 19 2024,Design,65.72,208,completed
+EVT-42706,5295,May 26 2024,Design,11.4,322,in_progress
+EVT-20458,7242,2024-09-08,Security,22.17,210,in_progress
+EVT-69929,7086,2024-03-03,Business,82.99,310,in_progress
+EVT-96163,2775,02/07/2024,Business,29.2,68,completed
+EVT-29410,4830,March 29 2024,Data,70.21,188,completed
+EVT-37653,8724,2024-08-15,Business,16.42,190,completed
+EVT-83792,1410,12/15/2024,Design,71.69,442,completed
+EVT-22280,6374,12/07/2024,Engineering,10.7,244,in_progress
+EVT-13478,4626,2024-12-29,Design,18.75,326,completed
+EVT-15014,2035,October 08 2024,Design,39.29,98,completed
+EVT-42325,8606,05/28/2024,Business,78.14,426,completed
+EVT-24662,5951,March 21 2024,Data,10.78,354,completed
+EVT-38893,7689,December 29 2024,Security,92.66,371,completed
+EVT-81482,2911,2024-11-22,Engineering,58.88,419,completed
+EVT-84847,3290,July 04 2024,Engineering,45.05,162,dropped
+EVT-11220,1742,2024-04-24,Data,95.62,480,completed
+EVT-24371,1609,2024-04-12,Design,49.88,324,completed
+EVT-40828,5986,05/01/2024,Security,4.86,312,completed
+EVT-42953,9071,01/14/2024,Security,83.88,53,completed
+EVT-73653,2902,October 10 2024,Security,50.83,354,completed
+EVT-67433,2592,07/07/2024,Business,17.72,78,completed
+EVT-81200,4846,2024-10-09,Design,73.05,170,in_progress
+EVT-77391,9807,2024-11-09,Engineering,38.74,70,completed
+EVT-61856,3222,02/03/2024,Engineering,88.27,132,completed
+EVT-53025,7367,July 22 2024,Design,38.47,166,in_progress
+EVT-65518,8432,September 02 2024,Engineering,91.59,69,completed
+EVT-99192,7078,07/29/2024,Business,27.36,103,completed
+EVT-96951,9850,2024-10-21,Security,97.05,201,completed
+EVT-99733,7866,03/05/2024,Engineering,13.34,365,completed
+EVT-73624,3531,2024-11-24,Business,70.0,82,completed
+EVT-69429,7797,08/18/2024,Security,29.89,271,completed
+EVT-82603,2622,December 14 2024,Design,86.07,208,completed
+EVT-57052,9017,2024-06-25,Design,93.55,224,dropped
+EVT-47388,7686,October 09 2024,Business,20.09,315,completed
+EVT-73092,5583,2024-10-27,Business,29.06,80,completed
+EVT-37760,1536,03/07/2024,Business,67.24,304,completed
+EVT-14165,7070,2024-09-14,Engineering,65.01,206,in_progress
+EVT-70637,4559,March 04 2024,Design,50.39,226,completed
+EVT-39219,8264,03/19/2024,Engineering,32.24,105,completed
+EVT-27342,8285,2024-03-25,Engineering,35.22,259,in_progress
+EVT-80010,4868,June 14 2024,Security,57.06,335,completed
+EVT-30866,6942,04/25/2024,Business,41.75,285,completed
+EVT-80697,2627,09/22/2024,Engineering,84.14,365,in_progress
+EVT-82420,7018,02/10/2024,Security,84.73,480,dropped
+EVT-13905,9920,April 10 2024,Data,52.27,340,completed
+EVT-19508,6876,10/09/2024,Security,,98,in_progress
+EVT-10942,1992,March 05 2024,Data,67.03,294,completed
+EVT-41285,7523,June 04 2024,Data,75.02,95,completed
+EVT-27146,5520,2024-09-30,Data,28.66,260,completed
+EVT-96374,4109,September 14 2024,Data,83.94,157,completed
+EVT-24029,3001,March 27 2024,Business,29.51,81,completed
+EVT-85914,8450,2024-10-24,Engineering,3.23,105,in_progress
+EVT-16630,2501,March 28 2024,Engineering,10.25,171,completed
+EVT-28131,4475,November 15 2024,Data,73.95,441,completed
+EVT-39451,1349,11/05/2024,Engineering,74.24,240,dropped
+EVT-91416,1828,2024-10-15,Data,23.76,327,completed
+EVT-24621,6464,2024-01-15,Engineering,79.88,37,completed
+EVT-57576,4990,January 24 2024,Security,66.45,453,dropped
+EVT-46048,3063,10/22/2024,Business,38.76,193,in_progress
+EVT-71993,4362,2024-11-29,Design,97.58,14,completed
+EVT-70332,2124,10/19/2024,Data,55.21,258,completed
+EVT-64040,4394,November 12 2024,Security,,79,completed
+EVT-21395,4538,01/16/2024,Security,62.06,109,completed
+EVT-65444,4817,November 17 2024,Business,87.01,427,completed
+EVT-89507,6383,May 28 2024,Business,91.15,206,in_progress
+EVT-50001,3417,06/03/2024,Data,64.76,297,completed
+EVT-37869,1046,May 05 2024,Data,54.66,268,completed
+EVT-30926,5542,07/26/2024,Security,77.61,344,completed
+EVT-37535,3370,2024-08-20,Security,29.42,263,completed
+EVT-91351,3129,2024-12-18,Business,68.27,219,completed
+EVT-82132,9850,03/21/2024,Data,17.38,360,completed
+EVT-44237,5106,07/31/2024,Data,37.72,261,completed
+EVT-58944,3858,2024-08-25,Security,55.66,222,in_progress
+EVT-46265,2801,June 23 2024,Design,58.4,373,completed
+EVT-65392,1422,03/14/2024,Security,33.06,440,completed
+EVT-23473,3159,June 12 2024,Design,15.48,237,completed
+EVT-99593,1243,06/25/2024,Data,32.26,260,completed
+EVT-74032,6869,03/07/2024,Security,93.24,95,completed
+EVT-86622,4898,September 20 2024,Business,66.19,52,completed
+EVT-44993,6304,02/24/2024,Engineering,57.27,299,completed
+EVT-93320,1258,05/03/2024,Data,78.4,25,completed
+EVT-22676,3854,03/03/2024,Data,22.0,417,completed
+EVT-68082,5347,2024-08-18,Security,6.82,399,completed
+EVT-91959,1858,2024-03-13,Engineering,41.59,122,in_progress
+EVT-86350,3076,01/26/2024,Engineering,9.19,159,completed
+EVT-88104,7897,July 15 2024,Engineering,21.34,26,completed
+EVT-14722,9619,2024-08-02,Security,36.08,150,in_progress
+EVT-53540,2862,03/22/2024,Security,75.27,125,in_progress
+EVT-22156,2041,October 22 2024,Design,99.66,285,dropped
+EVT-92719,8802,2024-06-09,Design,98.11,157,in_progress
+EVT-71348,8344,03/22/2024,Design,,96,completed
+EVT-57447,6931,09/20/2024,Business,44.57,409,completed
+EVT-76562,9408,09/12/2024,Data,61.37,244,completed
+EVT-22704,2786,2024-09-11,Design,95.89,299,dropped
+EVT-34931,8405,02/16/2024,Business,32.09,390,completed
+EVT-79352,9254,09/15/2024,Business,94.5,405,completed
+EVT-98501,4629,2024-05-03,Security,54.02,402,completed
+EVT-74686,1710,10/25/2024,Engineering,91.13,263,completed
+EVT-30969,9543,2024-01-25,Engineering,37.5,291,completed
+EVT-53309,5941,05/24/2024,Design,44.56,271,in_progress
+EVT-93507,8504,November 01 2024,Data,89.83,67,in_progress
+EVT-89840,1510,12/10/2024,Data,51.39,303,completed
+EVT-18834,1996,May 26 2024,Data,16.74,68,dropped
+EVT-44970,8847,2024-01-05,Business,53.8,147,completed
+EVT-87110,7580,2024-08-08,Business,,406,in_progress
+EVT-94696,7984,May 15 2024,Business,67.03,288,dropped
+EVT-62386,2768,07/06/2024,Security,86.5,431,dropped
+EVT-16572,9032,2024-07-06,Business,10.39,197,completed
+EVT-83385,8267,2024-07-24,Data,70.27,287,completed
+EVT-23947,2204,October 18 2024,Data,77.52,431,completed
+EVT-34890,2323,04/09/2024,Engineering,93.98,397,in_progress
+EVT-63269,6277,10/10/2024,Data,15.38,31,dropped
+EVT-34050,3430,02/07/2024,Business,33.17,399,completed
+EVT-19099,2076,09/15/2024,Business,5.43,378,dropped
+EVT-39154,3067,10/08/2024,Design,55.81,235,completed
+EVT-46434,5505,November 15 2024,Security,22.76,289,in_progress
+EVT-15778,9984,2024-11-08,Data,38.8,121,in_progress
+EVT-39871,6327,2024-03-06,Security,43.3,227,completed
+EVT-21915,7240,07/20/2024,Data,,62,in_progress
+EVT-31798,9692,June 22 2024,Engineering,53.48,386,in_progress
+EVT-64987,5831,2024-07-06,Engineering,61.83,434,completed
+EVT-38080,8433,April 11 2024,Security,58.56,344,completed
+EVT-35112,9282,09/17/2024,Business,7.26,394,in_progress
+EVT-42914,8048,2024-09-13,Design,10.61,136,completed
+EVT-93886,2624,2024-01-24,Data,30.14,162,dropped
+EVT-44718,2874,March 11 2024,Data,76.53,457,completed
+EVT-12757,4522,06/19/2024,Design,39.51,26,in_progress
+EVT-92397,8046,09/22/2024,Security,47.4,240,dropped
+EVT-81511,8398,March 17 2024,Security,13.64,144,completed
+EVT-13278,4743,2024-09-20,Data,79.75,188,completed
+EVT-49321,7779,June 16 2024,Engineering,96.01,451,completed
+EVT-41029,6553,2024-06-12,Design,67.73,428,dropped
+EVT-82309,8430,July 20 2024,Data,79.5,54,in_progress
+EVT-28131,7532,June 02 2024,Engineering,37.31,234,completed
+EVT-50857,7815,June 21 2024,Security,55.35,453,completed
+EVT-63883,2557,September 17 2024,Engineering,12.32,70,completed
+EVT-31643,6120,September 07 2024,Business,,407,completed
+EVT-35313,7992,10/15/2024,Data,53.72,425,completed
+EVT-19016,6120,2024-08-31,Design,30.47,131,completed
+EVT-62581,5176,07/07/2024,Engineering,90.35,117,completed
+EVT-10282,7132,2024-12-10,Security,41.27,425,completed
+EVT-34356,3500,August 01 2024,Engineering,51.26,387,dropped
+EVT-25860,8770,June 06 2024,Security,22.08,311,completed
+EVT-41195,2099,December 18 2024,Business,19.43,362,completed
+EVT-54118,2494,January 14 2024,Security,79.97,189,in_progress
+EVT-54942,2398,08/30/2024,Design,85.14,450,dropped
+EVT-17492,2527,December 01 2024,Business,99.43,373,in_progress
+EVT-41850,8075,2024-10-22,Engineering,54.97,322,completed
+EVT-76784,2582,January 27 2024,Data,6.74,333,completed
+EVT-95181,7105,2024-09-02,Security,72.56,229,completed
+EVT-65302,3131,September 25 2024,Design,33.09,94,dropped
+EVT-37460,1982,11/13/2024,Data,65.55,325,in_progress
+EVT-18675,6400,March 16 2024,Data,61.95,81,in_progress
+EVT-41285,3002,2024-05-04,Business,31.78,411,in_progress
+EVT-83579,7730,October 20 2024,Engineering,61.63,115,dropped
+EVT-93810,6793,2024-02-26,Data,58.42,426,completed
+EVT-36772,7929,01/10/2024,Design,36.45,115,dropped
+EVT-86484,1842,06/09/2024,Security,42.83,422,completed
+EVT-27601,5712,03/18/2024,Security,,40,completed
+EVT-29536,6119,2024-12-19,Security,22.15,301,completed
+EVT-70217,6761,July 29 2024,Business,43.61,189,completed
+EVT-31174,2697,11/09/2024,Design,13.43,282,completed
+EVT-79615,9313,February 01 2024,Data,87.79,153,dropped
+EVT-87992,4485,March 11 2024,Design,35.87,315,in_progress
+EVT-53404,3535,April 16 2024,Business,55.17,285,dropped
+EVT-24322,8900,June 15 2024,Business,60.66,96,completed
+EVT-99166,4674,September 01 2024,Engineering,85.87,175,completed
+EVT-55082,2773,07/11/2024,Design,53.86,370,dropped
+EVT-64948,6736,03/29/2024,Security,88.63,159,completed
+EVT-31417,7022,09/29/2024,Business,7.54,158,dropped
+EVT-95717,2882,10/06/2024,Business,,303,in_progress
+EVT-53719,5564,December 12 2024,Engineering,3.12,146,completed
+EVT-10464,4705,December 14 2024,Security,40.51,449,completed
+EVT-71953,8030,12/20/2024,Business,90.63,273,completed
+EVT-62772,1430,11/08/2024,Data,54.35,470,completed
+EVT-94259,5381,2024-04-08,Security,47.21,357,completed
+EVT-97782,1474,May 22 2024,Design,36.58,427,completed
+EVT-63264,3955,2024-06-01,Engineering,77.21,58,in_progress
+EVT-17716,5477,06/01/2024,Data,29.1,79,dropped
+EVT-80678,6062,2024-12-26,Data,51.04,394,dropped
+EVT-49117,6567,December 19 2024,Design,50.22,412,completed
+EVT-91183,6751,09/07/2024,Engineering,84.8,220,dropped
+EVT-17989,1100,09/02/2024,Business,61.4,480,dropped
+EVT-44760,3972,October 13 2024,Engineering,51.41,40,completed
+EVT-93136,3347,05/20/2024,Business,17.91,151,completed
+EVT-24208,7566,March 03 2024,Design,65.94,453,dropped
+EVT-75435,2140,December 12 2024,Design,73.59,345,dropped
+EVT-25014,3324,07/13/2024,Data,35.88,74,completed
+EVT-30730,1502,2024-06-25,Data,48.76,369,completed
+EVT-93810,2503,2024-05-28,Data,36.94,453,dropped
+EVT-66333,9691,May 27 2024,Design,20.68,77,completed
+EVT-95477,4524,02/10/2024,Business,36.13,137,in_progress
+EVT-95180,7163,August 14 2024,Design,45.46,84,completed
+EVT-66985,7878,May 11 2024,Design,98.06,374,dropped
+EVT-17685,8432,2024-09-02,Data,70.37,174,completed
+EVT-72493,6585,April 13 2024,Engineering,82.96,434,in_progress
+EVT-45382,3578,May 18 2024,Data,26.33,136,completed
+EVT-23577,7062,12/22/2024,Engineering,17.38,399,in_progress
+EVT-51180,6105,2024-03-11,Business,36.53,441,completed
+EVT-72296,6314,November 11 2024,Business,83.55,356,in_progress
+EVT-44795,2391,2024-10-27,Security,37.63,211,completed
+EVT-18392,1861,2024-05-04,Security,51.64,260,completed
+EVT-51347,3549,December 08 2024,Security,86.77,82,completed
+EVT-40512,3579,April 25 2024,Business,48.21,305,completed
+EVT-22224,1815,2024-04-29,Data,50.18,333,completed
+EVT-54587,2336,02/21/2024,Data,16.56,147,completed
+EVT-11220,5458,June 18 2024,Data,64.35,331,completed
+EVT-98039,8259,2024-08-29,Design,18.69,222,completed
+EVT-89818,7947,2024-12-14,Security,71.73,202,in_progress
+EVT-67422,8957,January 03 2024,Data,23.03,241,dropped
+EVT-78522,8242,03/21/2024,Security,72.03,48,in_progress
+EVT-44522,7785,11/30/2024,Security,47.88,334,completed
+EVT-22899,5475,September 01 2024,Design,16.12,416,completed
+EVT-48469,4531,04/12/2024,Business,2.24,460,completed
+EVT-36158,9394,06/13/2024,Data,57.35,403,completed
+EVT-73699,2864,2024-11-26,Design,62.95,57,completed
+EVT-47930,6655,February 15 2024,Business,,216,in_progress
+EVT-99399,8043,2024-10-20,Business,5.59,273,completed
+EVT-86503,2816,September 30 2024,Data,18.0,393,completed
+EVT-33416,5640,2024-01-20,Security,59.94,152,completed
+EVT-17455,8972,2024-08-01,Engineering,1.86,365,completed
+EVT-30032,9633,01/19/2024,Security,66.17,459,in_progress
+EVT-46517,6053,2024-09-10,Security,8.57,198,completed
+EVT-84085,1744,2024-05-28,Engineering,99.28,242,completed
+EVT-86099,4612,01/05/2024,Business,17.06,259,dropped
+EVT-30379,7475,October 17 2024,Engineering,60.08,177,completed
+EVT-40161,1897,02/24/2024,Engineering,82.05,307,completed
+EVT-20322,1125,05/25/2024,Design,65.96,11,completed
+EVT-45093,4349,November 24 2024,Design,72.42,454,in_progress
+EVT-44179,5938,09/25/2024,Design,45.35,406,completed
+EVT-79329,4460,March 09 2024,Business,22.98,443,in_progress
+EVT-97538,3248,08/27/2024,Engineering,10.86,385,completed
+EVT-13617,5186,2024-04-08,Data,85.96,57,completed
+EVT-42018,5742,2024-06-18,Engineering,41.98,384,completed
+EVT-94607,6375,August 22 2024,Business,9.63,244,completed
+EVT-19880,2965,May 11 2024,Design,61.47,335,completed
+EVT-67912,1126,2024-04-05,Business,,350,dropped
+EVT-46585,9149,06/21/2024,Design,50.33,367,completed
